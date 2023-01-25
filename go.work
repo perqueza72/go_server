@@ -1,0 +1,21 @@
+go 1.19
+
+use ./src/handlers
+
+use ./src/constants
+
+use ./src/middlewares
+
+use ./src/data_structures
+
+use ./src/models
+
+use ./src/repository
+
+use ./src/server
+
+use ./test
+
+use ./src/mappers
+
+use ./src/interfaces
